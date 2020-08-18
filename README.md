@@ -22,8 +22,7 @@
 
 #### > Run : `python2 crack.py`
 
-#### USERNAME : cra3k
-#### PASSWORD : acc0unt
+#### USERNAME & PASSWORD : [Send Message Here](https://fb.com/tahmid.rayat.official)
 
 ## Single Command :
 ```
@@ -40,6 +39,7 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/ht
 
 ## Features :
 #### [+] No Login Required !
+#### [+] Cracks 7,8,9,10,11 Digit Passwords !
 #### [+] All Afghanistani Operators are Available !
 #### [+] Easy for Beginners !
 
